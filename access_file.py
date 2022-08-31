@@ -1,10 +1,6 @@
 import json
 import requests
 
-   
-
-
-
 with open('C:\\Users\\clearlove7\\Documents\\GitHub\\App\\json\\json_file_test.json',mode='r',encoding='utf-8') as data_file:
         R_data = data_file.read()
 value = json.loads(R_data)
