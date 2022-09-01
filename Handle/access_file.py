@@ -19,27 +19,6 @@ def Write_Data(data):
 
         return arrData
 
-Write_Data(["_________________________________________________________________________",
-        'id page : '+value['id'],
-        'name page: '+value['name'],
-        'about page : '+value['about'],
-        'token : '+value['access_token'],
-        'feed id : ' +value['feed']['data'][0]['id'],
-        'newfeed status 1 : '+value['feed']['data'][0]['story'],
-        'feed created time 1 : '+value['feed']['data'][0]['created_time'],
-        'feed id : '+value['feed']['data'][1]['id'],
-        'newfeed status 2 : '+value['feed']['data'][1]['story'],
-        'feed created time 2 : '+value['feed']['data'][1]['created_time'],
-        "id groups : "+value['groups']['data'][0]['id'],
-        "name groups : "+ value['groups']['data'][0]['name']
-])
-
-     
-Write_Data([
-        str("before feed : "+value['feed']['paging']['cursors']['before']),
-        str("after feed : "+value['feed']['paging']['cursors']['after'])
-])       
-
 
 
 

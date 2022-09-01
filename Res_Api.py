@@ -1,7 +1,7 @@
 import json
 import requests
 
-Url_Api = requests.get('https://graph.facebook.com/v14.0/me?fields=id%2Cname%2Caccess_token%2Cfeed%2Cabout%2Cgroups&access_token=EAASCDwYEjcUBALc4atWu8VI1MvTMg6CL7KUxMvJm7R2dFNG4yho1gzMgVAVWpzX3M3cBKDcu23Gof9VTZB0VrLOHYtBAq8jcuYHciyU2vZBiPmdYfJCaYouh17w7BRHzdArUJpnhGHRIytZCPA3Ixq2qUTsIKPAq8h2gmV8lw8z3ag9XBZAAKFDtK9ZAvrZAnt6ZBml8cNuRAZDZD')
+Url_Api = requests.get('https://graph.facebook.com/v14.0/me?fields=id%2Cname%2Cemail%2Cbirthday%2Cgender%2Cage_range%2Clink%2Cname_format%2Caccounts&access_token=EAASCDwYEjcUBAGLpNZBawSTWrTojZCTZCdJdLqB4YpCyM73ZAyEFxykkwBIkXrIx6CWuT9PugVUslLGu0w8XxXUfPTTW8bNQJu3cbBPqhrJfKXWN8rIezyKoi9Y3tHGBhffBDS2H9HzmMNxZBvrbOudKLJDSyZBkJkqhJV47MfHn4VAl8XkMRpRHwAa0U7zLGv4CAoRgnOpAZDZD')
 
 Json_data = Url_Api.text
 
@@ -24,11 +24,11 @@ def Write_Data(data):
 
         return arrData
 
-
-Write_Data(["_________________________________________________________________________",
+Write_Data(["_________________________________________________________________________\n",
         'id page : '+value['id'],
+        'user name: '+value['name'],
+        'email : '+value['email'],
 ])
-
 
 
 

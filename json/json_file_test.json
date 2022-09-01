@@ -1,44 +1,44 @@
 {
-    "id": "117828560890633",
-    "name": "Bot",
-    "access_token": "EAASCDwYEjcUBALygSTKxJYpWSFKKm9cTpUC0ZAFsbG3sLpOfsiK63bNoo7SS9OedYfi32KWZC7ss59HBPDL6V20fdpWbgzXNDfWT0WrovXFkbYIeqyj6aFsWfEbZCNLlFJObQLIi1Br98mh8iLZBnQZBSU2vZAh4KYZBh0ZACzkSlsAmX675D2LOrZCaFWr1ru0E3mtcipMaMo9oXZClQ2LZAVt",
-    "about": "bot cua toi",
-    "feed": {
-        "data": [
-            {
-                "created_time": "2022-07-14T05:56:04+0000",
-                "story": "Bot \u0111\u00e3 c\u1eadp nh\u1eadt \u1ea3nh \u0111\u1ea1i di\u1ec7n c\u1ee7a m\u00ecnh.",
-                "id": "117828560890633_147889267884562"
-            },
-            {
-                "created_time": "2022-04-24T04:59:02+0000",
-                "story": "Bot \u0111\u00e3 c\u1eadp nh\u1eadt \u1ea3nh \u0111\u1ea1i di\u1ec7n c\u1ee7a m\u00ecnh.",
-                "id": "117828560890633_117828867557269"
-            }
-        ],
-        "paging": {
-            "cursors": {
-                "before": "QVFIUm15WW5wb3lOQldCMVlscWNuUWowSHg2Vm5NR1dhZAkt1ZAzlyVTZAmU05tdkJOczI0TGFMS3lHVzhQTEdqV3RfMUo5ODc3MXN0MTl1N2phNXlpTXFIZA21PR25nNzllSUNMcHVxVFFMWmhhSXFBeURxYkJOTGlGeDJuTkFib0lHblkyVlYzYUdkTkpUeGtVdERtVWthZAnZAmelZAIVTlTc3hKUDJfUXN3RWc4djZA3aVVLZAFdMZAlRyYnJUTmNtY1NZAMFU0NgZDZD",
-                "after": "QVFIUkxrLVRJa2hIZAkk3NWZAFTW4wTnVDZAXN3QXczbk84ZAzVWdVJtUUQxc3NxMTY2eV9Lb1g3eWx5UlVyMnR0YW9QMEVXQ2p4RWVOaHNmLS0zc09mNlpTd2RZAOHBUckExMjgtVXAtems5VUIzMXMxWGQyYWstazVvbFpJNGJHTll1TUxoU0J4Y0ktRHRDZAXZAQRDg0TjBlMjVxakN0Y1ZAKNjc5VmQwMjFJdUF5VjFsanJYd0EtTU1nMkJWRkJhZAGNuNWdkUQZDZD"
-            }
-        }
+    "id": "1215295345679674",
+    "name": "Tuong Tran",
+    "email": "tranthimai1331998@gmail.com",
+    "birthday": "01/16/1998",
+    "gender": "male",
+    "age_range": {
+        "min": 21
     },
-    "groups": {
+    "link": "https://www.facebook.com/app_scoped_user_id/YXNpZADpBWEdEbUE3MnBDV0FCTTFSUVFFZA3ZAWOVg3Ykp6dnNVV09jWUdEYkhJS2MxbFN4Mkw4TWxrbWg3cnRNMF9LMHI4OWZAfYnpWd0FQQ2trV2wyMzRDdkNwdkdpZAkZAyb1pPLWlQUXJfZAExGTkdKNzF4b2VrZA3cZD/",
+    "name_format": "{first} {last}",
+    "accounts": {
         "data": [
             {
-                "name": "Sinh Vi\u00ean \u0110\u00e0 N\u1eb5ng \u2705",
-                "id": "1413654305524786"
+                "access_token": "EAASCDwYEjcUBAMakiqpOA6V2YV46RbdkfT3OehARv7HI1rU7CnZCHSnOt5sXpBcwLr3F3wC20ZBWF0XXJgpPeXJSCnIVVgkzH8YFRATIUAZBgFhZCIh8QrDtxuOvsmk6ZCURs8TC7bZBNSUCk9r6k5JxUWCc1wZAK2Vt72708dvpNnLZCNJSY743GMBNUQyhxwikmtT771vbPgZDZD",
+                "category": "Bất động sản",
+                "category_list": [
+                    {
+                        "id": "198327773511962",
+                        "name": "Bất động sản"
+                    }
+                ],
+                "name": "Bot",
+                "id": "117828560890633",
+                "tasks": [
+                    "ANALYZE",
+                    "ADVERTISE",
+                    "MESSAGING",
+                    "MODERATE",
+                    "CREATE_CONTENT",
+                    "MANAGE"
+                ]
             }
         ],
         "paging": {
             "cursors": {
-                "before": "QVFIUmUtY2NyaDg5RnVRU2hfMUd4V3BjTHJpSUxLY0lTM0dfcTM4MVpSTjhLMEhIOHdqNGVwLS1oWnZAnVFMwTDRkX0dQUmdIczZAnQTEyUUhhNEswbzhuWENn",
-                "after": "QVFIUmUtY2NyaDg5RnVRU2hfMUd4V3BjTHJpSUxLY0lTM0dfcTM4MVpSTjhLMEhIOHdqNGVwLS1oWnZAnVFMwTDRkX0dQUmdIczZAnQTEyUUhhNEswbzhuWENn"
+                "before": "MTE3ODI4NTYwODkwNjMz",
+                "after": "MTE3ODI4NTYwODkwNjMz"
             }
         }
     }
 }
-
-
 
 
