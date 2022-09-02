@@ -76,10 +76,10 @@ Write_Data(data=[
 
 
 show_Data_Brower(code_html='''
-        </div>
-        </hr>
+</div>
+   </hr>
       </body>
-   </head>
+    </head>
 </html>
 
 ''')

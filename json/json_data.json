@@ -1,0 +1,48 @@
+{
+    "id": "1215295345679674",
+    "name": "Tuong Tran",
+    "birthday": "01\/16\/1998",
+    "name_format": "{first} {last}",
+    "gender": "male",
+    "email": "tranthimai1331998\u0040gmail.com",
+    "link": "https:\/\/www.facebook.com\/app_scoped_user_id\/YXNpZADpBWEhuYmd1TmtBdWN6OGV3cER0Qm91czFaMkFlbnlRWFRKNWVWcjFRenNXemNZAQXd6b3d6SktkUGZAERUQ5R3padmdHdGFIcFpBaTB4UU9KcWZAhS2RqUXA3STRkbnFyZAmhyd0NOb3VLWTFoMnhZAa3VneWcZD\/",
+    "friends": {
+        "data": [],
+        "summary": {
+            "total_count": 1003
+        }
+    },
+    "age_range": {
+        "min": 21
+    },
+    "accounts": {
+        "data": [
+            {
+                "access_token": "EAASCDwYEjcUBAAJ12ZBs06FddnrygJ862SZBs2KZBD6ZAA2LlT2YJtYTln4p3MfCXlKMyiBeLWGU1YV2tXzayWnmMueaxhG4uh0wnR5LOXUP1vuMFURmgOFZBFvKJRaMcEETv6koqa0Vi6WuKrw3ysbkY82cNzKOKIO85S8tR5dBUosa31ZAmGKAMpWGgIL2D6qj7lqPEW7ZCodABqjAvO4",
+                "category": "B\u1ea5t \u0111\u1ed9ng s\u1ea3n",
+                "category_list": [
+                    {
+                        "id": "198327773511962",
+                        "name": "B\u1ea5t \u0111\u1ed9ng s\u1ea3n"
+                    }
+                ],
+                "name": "Bot",
+                "id": "117828560890633",
+                "tasks": [
+                    "ANALYZE",
+                    "ADVERTISE",
+                    "MESSAGING",
+                    "MODERATE",
+                    "CREATE_CONTENT",
+                    "MANAGE"
+                ]
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "before": "MTE3ODI4NTYwODkwNjMz",
+                "after": "MTE3ODI4NTYwODkwNjMz"
+            }
+        }
+    }
+}
