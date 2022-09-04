@@ -68,16 +68,25 @@ class MyApp:
         App.mainloop()
 
 while AppStart[0]:
-    Key = input("nhap pass : ")
-    try:
-        handle_key = {
+       password = input("nhap pass : ")
+       if password ==  data:
+            MyApp.Api_Acess_Token()
+            break;
+       elif password !=  data:
+            print("You were inputing wrong fields, please! re-enter")
 
-                    data : lambda : MyApp.Api_Acess_Token(),
 
-        }[Key]()
-        break;
-    except:
-        print(False)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
