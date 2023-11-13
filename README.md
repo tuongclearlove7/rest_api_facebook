@@ -13,10 +13,7 @@
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="app_demo/video/demo_app_post.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img width="500px" height="350px" src="app_demo/video/demo_app.gif" />
 
 
 
