@@ -13,7 +13,7 @@
 
 ## Demo
 
-<img width="500px" height="350px" src="app_demo/video/demo_app.gif" />
+<img width="700px" height="350px" src="app_demo/video/demo_app.gif" />
 
 
 
