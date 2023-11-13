@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<pad>
+	<page1>
+		<ico1>Alarms &amp; Clock </ico1>
+		<ico2>Amazon</ico2>
+		<ico3>Bing</ico3>
+		<ico4>Brave</ico4>
+		<ico5>Calculator  </ico5>
+		<ico6>Calendar     </ico6>
+		<ico7>Camera </ico7>
+		<ico8>chrome </ico8>
+		<ico9>Command Prompt   </ico9>
+		<ico10>Control Panel   </ico10>
+		<ico11>Cortana </ico11>
+		<ico12>DeviantArt</ico12>
+		<ico13>Discord</ico13>
+		<ico14>Facebook</ico14>
+		<ico15>File Explorer </ico15>
+		<ico16>Google Drive</ico16>
+		<ico17>Google</ico17>
+		<ico18>Groove Music </ico18>
+		<ico19>Instagram</ico19>
+		<ico20>Intel® Graphics Command Center</ico20>
+		<ico21>Mail </ico21>
+		<ico22>Maps </ico22>
+		<ico23>Microsoft Edge </ico23>
+		<ico24>Notepad </ico24>
+		<ico25>OneNote </ico25>
+		<ico26>Paint </ico26>
+		<ico27>Paint 3D </ico27>
+		<ico28>Photos </ico28>
+		<ico29>Pinterest</ico29>
+		<ico30>Rainmeter skin</ico30>
+		<ico31>Recycle Bin </ico31>
+		<ico32>Reddit</ico32>
+		<ico33>Run </ico33>
+		<ico34>Services </ico34>
+		<ico35>Settings </ico35>
+	</page1>
+	<page2>
+		<ico1>Skype </ico1>
+		<ico2>Snipping Tool </ico2>
+		<ico3>Spotify</ico3>
+		<ico4>Telegram</ico4>
+		<ico5>This PC </ico5>
+		<ico6>Unsplash</ico6>
+		<ico7>VLC media player </ico7>
+		<ico8>Windows Media Player </ico8>
+		<ico9>Windows PowerShell </ico9>
+		<ico10>WinRAR </ico10>
+		<ico11>Yahoo</ico11>
+		<ico12>YouTube</ico12>
+	</page2>
+</pad>

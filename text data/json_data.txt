@@ -1,1 +1,1 @@
-{"error":{"message":"Error validating access token: Session has expired on Thursday, 01-Sep-22 21:00:00 PDT. The current time is Friday, 02-Sep-22 23:21:24 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AF0o9RCjkPdMcbzBNErdGtJ"}}
+{"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"A_pDwcYjck7k31XXLlMl07f"}}
